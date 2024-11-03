@@ -1,10 +1,10 @@
-##BloodGuard
+**BloodGuard**
 
-#Overview
+**Overview**
 
 BloodGuard is an innovative health-tech project designed to empower cardiovascular patients by providing continuous, data-informed insights. By integrating wearable technology with a machine learning model and a comprehensive mobile application, BloodGuard enables users to monitor their daily health metrics and track their recovery journey with personalized, real-time data analysis.
 
-#Key Features
+**Key Features**
 
 Wearable Health Monitoring: Continuous tracking of blood pressure, cholesterol levels, and other vital health metrics.
 
@@ -17,7 +17,7 @@ Healthcare Connectivity: The app facilitates direct communication between users 
 
 Note: Our Kotlin App, and ML model are linked in different repositories
 
-Contact
+**Contact**
 
 For any inquiries or support, please contact: tanushra@ualberta.ca
 
